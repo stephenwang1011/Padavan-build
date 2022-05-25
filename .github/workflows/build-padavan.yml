@@ -3,7 +3,7 @@ name: Build Padavan
 
 on:
   schedule:
-    - cron: 40 16 * * 1-5
+    - cron: 45 8 * * 1-5
 
 
 jobs:
