@@ -3,7 +3,7 @@ name: Build-Padavan-For-K2P
 
 on:
   schedule:
-    - cron: 45 8 * * 1-5
+    - cron: 0 9 * * 1-5
 
 
 jobs:
